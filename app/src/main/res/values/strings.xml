@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">StateManagement</string>
+    <string name="text_desc">You\'ve had %s glasses.</string>
+    <string name="add_one">Add one</string>
+    <string name="clear_water">Clear Water Count</string>
+    <string name="close">Close</string>
+</resources>
